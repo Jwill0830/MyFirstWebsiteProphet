@@ -1,0 +1,19 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Sample News Title",
+            "content": "This is the content of the news article.",
+            "author": "John Doe",
+            "date": "2023-09-27"
+        }
+    ],
+    "submissions": [
+        {
+            "id": 1,
+            "data": "Sample data submission",
+            "submitter": "Jane Doe",
+            "date": "2023-09-27"
+        }
+    ]
+}
